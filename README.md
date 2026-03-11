@@ -1,42 +1,42 @@
 # Crawford Forbes
+### **Senior Software Engineer | Systems Architecture & Performance**
 
-Front-End Engineer | UI Specialist | Performance Engineering
-
-I am a front-end engineer with a decade of experience building enterprise financial tools for PwC and high-volume web platforms for Simpleview. My work focuses on bridging the gap between complex data and intuitive user interfaces.
-
----
-
-### Technical Lab & Active Research
-
-I am currently utilizing my transition between roles to master modern performance workflows, complex state management, and algorithmic browser systems.
-
-**Active Build: Pelagos-7**
-A browser-based ambient music generator featuring autonomous agents in a synchronized environment.
-* **System Architecture:** Managing a 50+ issue backlog via GitHub Projects to track the development of autonomous robot behaviors and factory actor interactions.
-* **Algorithmic Composition:** Developing logic for evolving musical patterns synchronized to real-time beats.
-* **Knowledge Management:** Maintaining a library of 12+ specialized prompt files to ensure architectural consistency across complex state and audio-engine logic.
-* **Core Stack:** React 18, TypeScript, Vite, and Web Audio API.
-
-**Portfolio & Performance Lab: [crawfordforbes.com](https://crawfordforbes.com)**
-* **Performance Engineering:** Built a custom Node.js optimization suite to automate asset transcoding (AVIF/WebP), significantly reducing LCP and bandwidth.
-* **Modern Stack:** Architected a type-safe, high-performance site using React 18, TypeScript, and Vite.
-* **Content Management:** Implemented a decoupled, JSON-based data structure for efficient static content management.
-  
-**Media & Performance Research**
-* **Node.js Automation:** Custom optimization suite for automated AVIF/WebP transcoding and video optimization.
-* **Component Systems:** Developing a library of reusable, WCAG-compliant UI components utilizing a design-system approach.
-
-### Tech Stack
-* **Languages:** TypeScript, JavaScript (ES6+), PHP, Ruby, SQL.
-* **Frameworks:** React (Hooks, Context, Query), Vue (2/3), Node.js, Sinatra.
-* **Build/Tools:** Vite, Webpack, Vitest, Docker, MongoDB, Figma.
-
-### Background
-Before moving into engineering, I studied Music Composition and lead several ensembles. This background informs my collaborative approach to software development, prioritizing collaboration, precision, and a deep understanding of the overall system architecture.
+I am a software engineer with over a decade of experience architecting enterprise financial tools for PwC and high-volume web platforms for Simpleview. I focus on translating complex data requirements into high-performance, resilient system architectures.
 
 ---
 
-### Links
-* **Portfolio:** [crawfordforbes.com](https://crawfordforbes.com)
+### **Agentic SDLC & Systems Engineering**
+I am currently optimizing development lifecycles through autonomous agent orchestration and performance-led refactoring.
+
+#### **Active Build: Pelagos-7**
+A generative music SPA featuring autonomous agents in a synchronized environment.
+* **Orchestration:** Managing an architectural roadmap and 50+ issue backlog to coordinate complex state and AudioEngine logic.
+* **Algorithmic Logic:** Developing synchronized timing systems for evolving musical patterns.
+* **Workflow:** Utilizing specialized AI-orchestration to maintain architectural consistency across the stack.
+* **Core Stack:** React 19, TypeScript, Vite, Zustand, and Web Audio API.
+
+#### **Performance Lab: crawfordforbes.com**
+* **System Hardening:** Implementing a continuous refactoring cycle to ensure a minimalist, YAGNI-compliant architecture and high-signal technical documentation.
+* **Automated Quality:** Maintaining comprehensive test coverage via Vitest and integrated accessibility audits (WCAG 2.1) to ensure production-grade stability.
+* **Automation Suite:** Custom Node.js optimization scripts for automated AVIF/WebP transcoding and FFmpeg video optimization.
+* **Modern Stack:** Type-safe architecture using React 19, TypeScript, and Vite.
+
+---
+
+### **Technical Stack**
+* **Languages:** TypeScript, JavaScript (ES6+), PHP, SQL.
+* **Frameworks:** React 19 (Hooks, Context, Query), Vue (2/3), Node.js, Sinatra.
+* **Architecture:** System Design, Component-Driven Development, Responsive Media Pipelines, WCAG 2.1/2.2.
+* **Build/Tools:** Vite, Vitest, GitHub Actions, Docker, MongoDB.
+
+---
+
+### **Background: From Composition to Systems Architecture**
+My background in Music Composition informs my approach to software. Leading an ensemble requires a deep understanding of concurrent systems, precise timing, and how individual modules contribute to a larger, unified performance. I apply this same orchestration mindset to engineering: prioritizing systemic precision, clear communication between services, and a rigorous understanding of the overall architecture.
+
+---
+
+### **Connect**
+* **Portfolio:** [https://crawfordforbes.com](https://crawfordforbes.com)
 * **LinkedIn:** [linkedin.com/in/crawfordforbes](https://linkedin.com/in/crawfordforbes)
-* **Email:** crawford.forbes@gmail.com
+* **Email:** [crawford.forbes@gmail.com](mailto:crawford.forbes@gmail.com)
